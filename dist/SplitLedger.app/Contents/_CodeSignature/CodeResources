@@ -1260,10 +1260,6 @@
 		<data>
 		nlA920exWjd2wCoMSo2Pl/PRheo=
 		</data>
-		<key>Resources/icon-windowed.icns</key>
-		<data>
-		eEHOuYpZLB0vKGVIWGZOh5rH8+o=
-		</data>
 		<key>Resources/people.json</key>
 		<data>
 		vB0y37AwpBvAofdIChRQdCAnWeU=
@@ -1291,6 +1287,10 @@
 		<key>Resources/tcl8/8.6/tdbc/sqlite3-1.1.5.tm</key>
 		<data>
 		3u3rzq4MdpDKnzABvT6LF6CnnUM=
+		</data>
+		<key>Resources/wolf.icns</key>
+		<data>
+		nTuZxsqISyX4cLW15E+g4ecMVLQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -3998,13 +3998,6 @@
 			E+gtWodc4mqkPeWNz3M4YZt+D98sJwDFKfHEPs9sX7Q=
 			</data>
 		</dict>
-		<key>Resources/icon-windowed.icns</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uQo7VuWRab4Phv4EEGmfQsyqFqDIXZgO8OtgaAMvCzY=
-			</data>
-		</dict>
 		<key>Resources/libcrypto.3.dylib</key>
 		<dict>
 			<key>symlink</key>
@@ -4077,6 +4070,13 @@
 			<key>hash2</key>
 			<data>
 			9ReD0neL9kkQ0sf1NbIrcwTthXvS97eFqIANP65bkq8=
+			</data>
+		</dict>
+		<key>Resources/wolf.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uAtGFXTsJR7slAqwA66lolxm0cJ3vo+dka9MqvBu0k0=
 			</data>
 		</dict>
 	</dict>

@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>SplitLedger</string>
 	<key>CFBundleIconFile</key>
-	<string>icon-windowed.icns</string>
+	<string>wolf.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>SplitLedger</string>
 	<key>CFBundleInfoDictionaryVersion</key>

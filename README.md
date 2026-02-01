@@ -1,7 +1,7 @@
 Compilation Command:
 ```shell
-pyinstaller \
-  --windowed --name SplitLedger \
+pyinstaller \              
+  --windowed  --name SplitLedger --icon wolf.icns \
   --add-data "people.json:." \
   --add-data "cards.json:." --add-data "config_path.txt:." split_ledger_gui.py
 ```
