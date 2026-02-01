@@ -1,0 +1,8 @@
+{
+  "cards": [
+    { "name": "Default 0%", "cashback_rate": 0.0 },
+    { "name": "Amex 6%", "cashback_rate": 0.06 },
+    { "name": "Paypal 5%", "cashback_rate": 0.05 },
+    { "name": "Paypal 20%", "cashback_rate": 0.2 }
+  ]
+}
