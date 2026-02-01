@@ -6,7 +6,6 @@ pyinstaller \
   --add-data "cards.json:." --add-data "config_path.txt:." split_ledger_gui.py
 ```
 
-Modify default card and people information:
-
-~/Library/Application Support/SplitLedger/cards.json
+Modify default card and people information:<br>
+~/Library/Application Support/SplitLedger/cards.json<br>
 ~/Library/Application Support/SplitLedger/people.json
