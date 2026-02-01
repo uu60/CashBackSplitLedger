@@ -7,5 +7,6 @@ pyinstaller \
 ```
 
 Modify default card and people information:
+
 ~/Library/Application Support/SplitLedger/cards.json
 ~/Library/Application Support/SplitLedger/people.json
