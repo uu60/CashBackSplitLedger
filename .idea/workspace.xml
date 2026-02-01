@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="517246d5-92a9-4d4d-831d-a41d47c739ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SplitLedger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/playground.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SplitLedger.spec" beforeDir="false" afterPath="$PROJECT_DIR$/SplitLedger.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/BUNDLE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/BUNDLE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/SplitLedger" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/SplitLedger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/SplitLedger.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/SplitLedger.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/warn-SplitLedger.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/warn-SplitLedger.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/SplitLedger/xref-SplitLedger.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/SplitLedger/xref-SplitLedger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Frameworks/cards.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Frameworks/config_path.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Frameworks/people.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/MacOS/SplitLedger" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/MacOS/SplitLedger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Resources/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Resources/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Resources/cards.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Resources/config_path.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/Resources/people.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SplitLedger.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger/SplitLedger" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SplitLedger/SplitLedger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger/_internal/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/SplitLedger/_internal/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger/_internal/cards.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger/_internal/config_path.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/SplitLedger/_internal/people.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37HMlJWi0D9LKDugu1SlF7q7eFX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.split_ledger_gui.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dujianzhang/pycharm-projects/SplitLedger&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="split_ledger_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="playground" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_ledger_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.split_ledger_gui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="517246d5-92a9-4d4d-831d-a41d47c739ad" name="Changes" comment="" />
+      <created>1766555692814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766555692814</updated>
+      <workItem from="1766555697179" duration="6454000" />
+      <workItem from="1769920670936" duration="688000" />
+      <workItem from="1769921362177" duration="427000" />
+      <workItem from="1769921791857" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SplitLedger$split_ledger_gui.coverage" NAME="split_ledger_gui Coverage Results" MODIFIED="1769921020863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/playground$split_ledger_gui.coverage" NAME="split_ledger_gui Coverage Results" MODIFIED="1766559368237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

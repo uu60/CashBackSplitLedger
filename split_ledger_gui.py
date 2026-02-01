@@ -18,6 +18,7 @@ except ModuleNotFoundError:
     tk = None
 
 from main_app import SplitLedgerApp
+import openpyxl
 
 
 def main():
